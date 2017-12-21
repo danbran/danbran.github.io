@@ -226,7 +226,6 @@ df.set_index('Re').dropna().plot(marker='o',loglog=True)
 
 
 
-    <matplotlib.axes._subplots.AxesSubplot at 0x7ffad2198940>
 
 
 
