@@ -231,5 +231,4 @@ df.set_index('Re').dropna().plot(marker='o',loglog=True)
 
 
 
-![png](../data/output_15_1.png)
-
+![png]({{ "/data/output_15_1.png" | https://github.com/danbran/danbran.github.io/blob/master/data/output_15_1.png }})
