@@ -1,1 +1,9 @@
+# jupyter
 *.ipynb_checkpoints/
+# pelican
+cache
+pelican-plugins
+pelican-themes
+output
+*.pyc
+*.pid
